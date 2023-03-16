@@ -62,5 +62,5 @@ npm run start
 ```
 
 ## 鸣谢
-fork自： https://github.com/Ice-Hazymoon/openai-scf-proxy
+代码来自： https://github.com/Ice-Hazymoon/openai-scf-proxy
 做了代码修改以适配华为云
