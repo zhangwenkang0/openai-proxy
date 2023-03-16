@@ -34,7 +34,7 @@ PS：本教程不仅仅针对云函数，你也可以托管在自己的服务器
 - 地域：亚太-新加坡（也可以是中国之外的任何国家）
 - 函数名称：openai-proxy（也可以随便取个名字）
 - 运行环境：Nodejs 16.13（或者更高的版本）
-- 代码源：本地上传zip包（[点我下载 ZIP 包](https://github.com/)）
+- 代码源：本地上传zip包（[点我下载 ZIP 包](https://github.com/zhangwenkang0/openai-proxy/releases/download/v1.0.0/openai-proxy.zip)）
 - 修改app.js代码: 将其中"YOUR OpenAI Key"替换为你自己openAI key
 
 - 设置配置:
