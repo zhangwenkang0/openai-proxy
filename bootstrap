@@ -1,0 +1,6 @@
+#!/bin/bash
+#非华为云函数时使用的配置
+/var/lang/node16/bin/node app.js
+
+#华为云函数中使用时，使用下面配置(且注释掉上面一行)
+#/opt/function/runtime/nodejs14.18/rtsp/nodejs/bin/node $RUNTIME_CODE_ROOT/app.js
